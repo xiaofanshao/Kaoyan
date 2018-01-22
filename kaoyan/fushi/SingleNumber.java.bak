@@ -6,8 +6,8 @@ import java.util.Scanner;
  * 
  * @author xiaofanshao
  * https://nanti.jisuanke.com/t/15 
- * ç‹¬ç‰¹çš„æ•°å­— åªå‡ºç°ä¸€æ¬¡çš„æ•°å­—
- *  æ—¥æœŸï¼š2018.1.18
+ * ¶ÀÌØµÄÊı×Ö Ö»³öÏÖÒ»´ÎµÄÊı×Ö
+ *  ÈÕÆÚ£º2018.1.18
  */
 public class SingleNumber {
 

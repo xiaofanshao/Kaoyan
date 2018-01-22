@@ -1,4 +1,3 @@
-
 package kaoyan.fushi;
 
 import java.util.Scanner;
@@ -6,9 +5,9 @@ import java.util.Scanner;
 /**
  * 
  * @author xiaofanshao
- * ç»å…¸çš„å…ƒç´ å»é‡
+ * ¾­µäµÄÔªËØÈ¥ÖØ
  * https://nanti.jisuanke.com/t/11
- * æ—¥æœŸï¼š2018.1.17
+ * ÈÕÆÚ£º2018.1.17
  */
 public class SmashElem {
 

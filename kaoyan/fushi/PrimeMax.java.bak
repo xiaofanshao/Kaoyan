@@ -3,7 +3,7 @@ package kaoyan.fushi;
 public class PrimeMax {
 	/**
 	 * @author xiaofanshao
-	 * å¯¹460897024æ±‚æœ€å¤§è´¨å› æ•°
+	 * ¶Ô460897024Çó×î´óÖÊÒòÊı
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

@@ -5,8 +5,8 @@ import java.util.Scanner;
 /**
  * https://nanti.jisuanke.com/t/18
  * @author xiaofanshao
- * è´ªå¿ƒï¼Œæ¯æ¬¡éƒ½è·³æœ€å¤§ çœ‹æ˜¯å¦èƒ½è·³å‡º 
- * æ—¥æœŸï¼š2018.1.20
+ * Ì°ĞÄ£¬Ã¿´Î¶¼Ìø×î´ó ¿´ÊÇ·ñÄÜÌø³ö 
+ * ÈÕÆÚ£º2018.1.20
  */
 public class JumpGame {
 

@@ -5,11 +5,11 @@ import java.util.Random;
 /***
  * 
  * @author xiaofanshao
- * è®¡æ•°æ’åº
+ * ¼ÆÊıÅÅĞò
  */
 public class CounterSort {
 	public static void main(String[] args) {
-//		åˆå§‹åŒ–
+//		³õÊ¼»¯
 		Random random= new Random();
 		int[] a=new int[10];
 
@@ -17,12 +17,12 @@ public class CounterSort {
 			a[i]=random.nextInt(50);
 		}
 		
-		System.out.println("éšå³æ•°åˆ—");
+		System.out.println("Ëæ¼´ÊıÁĞ");
 		for(int i:a) {
 			System.out.print(i+" ");
 		}
 		System.out.println();
-//		æ’åº æ’åºä¹‹åçš„æ•°ç»„æ˜¯B
+//		ÅÅĞò ÅÅĞòÖ®ºóµÄÊı×éÊÇB
 		
 		int [] k=new int[51];
 		int [] b=new int[10];
@@ -38,8 +38,8 @@ public class CounterSort {
 			b[k[i]++]=i;
 		}
 		
-//		æ’åºå¥½çš„æ•°åˆ—
-		System.out.println("æ’åºå¥½çš„æ•°åˆ—");
+//		ÅÅĞòºÃµÄÊıÁĞ
+		System.out.println("ÅÅĞòºÃµÄÊıÁĞ");
 		for(int i:b) {
 			System.out.print(i+" ");
 		}
